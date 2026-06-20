@@ -65,7 +65,6 @@ I'm a data scientist and machine learning engineer focused on building robust pi
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=youssef124wael&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssef124wael&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 
 <br>
 
