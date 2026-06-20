@@ -77,7 +77,7 @@ I'm a data scientist and machine learning engineer focused on building robust pi
 
 ## 📬 Connect With Me
 
-- 📊 **Kaggle:** [[add your Kaggle profile link](https://www.kaggle.com/youssef1112)]
-- 💼 **LinkedIn:** [[add your LinkedIn profile link](https://www.linkedin.com/in/youssef-elsebaey-b67343326/)]
+- 📊 **Kaggle:** [[profile](https://www.kaggle.com/youssef1112)]
+- 💼 **LinkedIn:** [[profile](https://www.linkedin.com/in/youssef-elsebaey-b67343326/)]
 - 📧 **Email:** ywael000@gmail.com
 - 💬 **Ask me about:** custom training loops in PyTorch, feature engineering strategies, or scaling ML models into production
